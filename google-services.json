@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "622795252312",
+    "firebase_url": "https://enroute-32c59.firebaseio.com",
+    "project_id": "enroute-32c59",
+    "storage_bucket": "enroute-32c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622795252312:android:971194e21c1adc1f",
+        "android_client_info": {
+          "package_name": "com.example.abhishek.enroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622795252312-ni3m1af7uuti156o07cqr6gnv4rggk8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2PeJ6ys1Xo93SjtIgCK_KEFcNEFpCts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
